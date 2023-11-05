@@ -1,8 +1,8 @@
-### Hi, i plan a future for a career in IT-Security.   
-- I’m currently working on  on [jumi.biz](https://jumi.biz) , [mjsecurity.de](https://mjsecurity.de), markdowns and a Documentation about a Systemintegration project for School.
-- This ![website-icon](https://jumi.biz/assets/img/ico/jumi.ico) icon, indicates SSL for my domains.
-- I’m learning Cybersecurity on tryhackme.com .
-- 📫 xuser123@jumi.biz
-
-"Die Wissenschaft ist bestrebt, die Welt um uns herum zu verstehen.<br>
-Die Technologie hingegen strebt danach, sie zu beherrschen." - Nikola Tesla
+# i visualize my infosec career future
+- work on [jumi.biz](https://jumi.biz) ![website-icon](https://jumi.biz/assets/img/ico/jumi.ico) visible .ico indicates valid SSL
+- next work [mjsecurity.de](https://mjsecurity.de)
+- i do stuff w/ .md .htm .php .py .sh
+- i enjoy infosec @ tryhackme.com
+- 📫 pm to xuser123@jumi.biz | i use arch btw
+### science strives to understand the world around us. technology, on the other hand, strives to control it
+- Nikola Tesla
