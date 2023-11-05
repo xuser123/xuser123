@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Cybersecurity on tryhackme.com .
 - 📫 How to reach me: jumi@jumi.biz
 
-"Die Wissenschaft ist bestrebt, die Welt um uns herum zu verstehen.
+"Die Wissenschaft ist bestrebt, die Welt um uns herum zu verstehen.<br>
 Die Technologie hingegen strebt danach, sie zu beherrschen." - Nikola Tesla
